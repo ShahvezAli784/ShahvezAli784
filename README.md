@@ -1,4 +1,4 @@
--Hi there 👋, It's me Shahvez Ali memon
+ -Hi there 👋, It's me Shahvez Ali memon
 -👀 I’m interested in exploring various programming languages, Data Structures & Algorithms, Data Analysis, Machine Learning, Deep Learning and Artificial Intelligence.
 -🌱 I’m currently learning Data structures in Java.
 -💞️ I’m looking to collaborate on C++, Java, Python and SQL
