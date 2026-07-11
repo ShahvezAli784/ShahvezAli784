@@ -1,13 +1,26 @@
 # Building AI Products in Public
 
-Computer Science student focused on
+Hi, I'm **Shahvez Memon**, a Computer Science student passionate about developing practical AI systems that solve real-world problems.
 
-• Machine Learning
-• Deep Learning
-• LLM Applications
-• AI Agents
-• Software Engineering
+## Current Focus
 
-Currently building production-ready AI systems,
-sharing projects publicly,
-and preparing for Machine Learning Engineering roles.
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- AI Agents
+- Software Engineering
+
+## Currently Building
+
+- Career AI Agent
+- Resume Screening System
+- Advanced EDA Project
+- AI Device Assistant
+
+## Tech Stack
+
+Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java • C++ • Git • Docker
+
+## Connect
+
+Portfolio • LinkedIn • Kaggle • Email
