@@ -19,7 +19,7 @@ Computer Science student building production-ready AI systems, machine learning 
 
 ## Tech Stack
 
-Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java • C++ • Git • Docker
+Python  • Scikit-learn • Pandas • React • Java • Git  
 
 
 ## 🤝 Let's Connect
