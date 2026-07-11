@@ -1,6 +1,6 @@
 # Building AI Products in Public
 
-Hi, I'm **Shahvez Memon**, a Computer Science student passionate about developing practical AI systems that solve real-world problems.
+Computer Science student building production-ready AI systems, machine learning applications, and AI agents while preparing for Machine Learning Engineer roles.
 
 ## Current Focus
 
