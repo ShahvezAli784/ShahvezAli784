@@ -26,9 +26,9 @@ Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java
 
 <p align="center">
   <a href="https://shahvezmemon.netlify.app/">Portfolio</a> •
-  <a href="https://www.kaggle.com/shahvezmemonmahmood">LinkedIn</a> •
+  <a href="www.linkedin.com/in/shahvez-memon-528a18405">LinkedIn</a> •
   <a href="https://www.kaggle.com/shahvezmemonmahmood">Kaggle</a> •
-  <a href="mailto:shahvezmemon3.com">Email</a>
+  <a href="mailto:shahvezmemon3@gmail.com">Email</a>
 </p>
 
 
