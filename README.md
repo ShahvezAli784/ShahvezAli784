@@ -32,7 +32,7 @@ Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java
 </p>
 
 
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -43,3 +43,4 @@ Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahvezAli784&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+-->
