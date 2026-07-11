@@ -12,10 +12,8 @@ Computer Science student building production-ready AI systems, machine learning 
 
 ## Currently Building
 
-- Career AI Agent
-- Resume Screening System
 - Advanced EDA Project
-- AI Device Assistant
+  
 
 ## Tech Stack
 
