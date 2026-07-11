@@ -21,9 +21,16 @@ Computer Science student building production-ready AI systems, machine learning 
 
 Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java • C++ • Git • Docker
 
-## Connect
 
-[Portfolio](https://shahvezmemon.netlify.app/) • [LinkedIn](https://www.kaggle.com/shahvezmemonmahmood) • [Kaggle](https://www.kaggle.com/shahvezmemonmahmood) • [Email](shahvezmemon3@gmail.com)
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://shahvezmemon.netlify.app/">Portfolio</a> •
+  <a href="https://www.kaggle.com/shahvezmemonmahmood">LinkedIn</a> •
+  <a href="https://www.kaggle.com/shahvezmemonmahmood">Kaggle</a> •
+  <a href="mailto:shahvezmemon3.com">Email</a>
+</p>
+
 
 
 ## 📊 GitHub Statistics
