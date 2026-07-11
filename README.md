@@ -23,4 +23,4 @@ Python • TensorFlow • PyTorch • Scikit-learn • Pandas • React • Java
 
 ## Connect
 
-Portfolio • LinkedIn • Kaggle • Email
+[Portfolio](https://shahvezmemon.netlify.app/) • [LinkedIn](https://www.kaggle.com/shahvezmemonmahmood) • [Kaggle](https://www.kaggle.com/shahvezmemonmahmood) • [Email](shahvezmemon3@gmail.com)
