@@ -71,7 +71,6 @@ Computer Science student focused on shipping working ML systems end-to-end — f
 
 | Project | Description |
 |---|---|
-| [**Customer Churn Prediction API**](https://github.com/ShahvezAli784/customer-churn-saas-main) | FastAPI + scikit-learn microservice that predicts telecom customer churn from usage data, with Docker packaging and automated tests. |
 | [**TechGuide AI Assistant**](https://github.com/ShahvezAli784/techguide-ai-assistant) | A Python troubleshooting agent with a custom rule-based intent engine that decides *when* to call Claude, instead of a raw prompt wrapper. |
 | [**Oscar AI Predictor**](https://github.com/ShahvezAli784/oscar-ai-predictor) | Streamlit app predicting Academy Award outcomes from movie metadata using a trained scikit-learn model. |
 | [**Calories Burnt Prediction**](https://github.com/ShahvezAli784/calories-prediction-ml) | Streamlit app estimating calories burned using an XGBoost regression model. |
