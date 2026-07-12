@@ -95,7 +95,7 @@ Computer Science student focused on shipping working ML systems end-to-end — f
   </a>
 </p>
 
-> *"Fix your email badge above before publishing — see the Recruiter's Feedback for why."*
+
 
 ---
 
