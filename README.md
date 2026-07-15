@@ -1,137 +1,178 @@
 <h1 align="center">Hi, I'm Shahvez Memon 👋</h1>
 
-<h3 align="center">Aspiring Machine Learning Engineer | Building End-to-End ML Systems with Python, FastAPI & Streamlit</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Building End-to-End ML Systems & AI Applications</h3>
 
 <p align="center">
-Computer Science student focused on building and deploying practical Machine Learning systems — from data analysis and model development to serving predictions through APIs and interactive applications. Currently strengthening my expertise in deep learning, LLM-based agents, and MLOps to transition from experimental notebooks to production-ready ML solutions.
+Computer Science student focused on designing and deploying practical Machine Learning systems — from data processing and model development to API-based inference, containerized deployment, and interactive AI applications.
+Currently expanding expertise in Deep Learning, LLM applications, and MLOps to build scalable production-ready AI solutions.
 </p>
 
 ---
 
-### 🔭 Currently Working On
+## 🔭 Currently Working On
 
-- **Customer Churn Prediction API** — FastAPI + scikit-learn prediction service with Docker packaging, testing, and production-style architecture
-- **TechGuide AI Agent** — Python-based AI assistant with a rule-based intent engine that intelligently decides when to use an LLM instead of relying on direct prompting
+- **Customer Churn Prediction ML System**
+  - FastAPI prediction service
+  - Dockerized deployment
+  - Testing and production-style ML architecture
 
-### 🌱 Currently Learning
-
-- Deep Learning fundamentals (PyTorch / TensorFlow)
-- MLOps practices:
-  - CI/CD pipelines for ML
-  - Experiment tracking
-  - Model versioning
-  - Model monitoring
-- Cloud deployment:
-  - AWS/GCP fundamentals
-  - Deploying ML APIs
-
-### 👀 Areas of Interest
-
-- Applied Machine Learning & Predictive Modeling
-- ML Model Deployment and Productionization
-- LLM-powered AI Agents
-- Backend systems for Machine Learning applications
-- MLOps and scalable AI infrastructure
+- **TechGuide AI Agent**
+  - Python-based AI assistant
+  - Rule-based intent routing
+  - Intelligent LLM usage decisions
+  - Exploring agentic AI workflows
 
 ---
 
-## 🛠️ Technical Skills
+## 🌱 Currently Learning
 
-### Programming Languages
+- Deep Learning:
+  - Neural Networks
+  - CNNs
+  - Transformers
+  - PyTorch / TensorFlow
+
+- Advanced MLOps:
+  - CI/CD for ML systems
+  - Model monitoring
+  - Cloud deployment
+  - Scalable inference systems
+
+- Generative AI:
+  - RAG architectures
+  - AI agents
+  - Tool calling
+  - LLM workflows
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming
 
 `Python` `Java` `JavaScript` `SQL` `HTML/CSS`
 
 ---
 
-### Machine Learning
+## Machine Learning
 
-`Scikit-learn` `XGBoost` `Pandas` `NumPy`  
-`Feature Engineering` `Regression` `Classification`  
-`Model Evaluation` `Model Serialization (Pickle/Joblib)`
+`Scikit-learn` `XGBoost` `Random Forest`
 
----
+`Regression` `Classification`
 
-### Deep Learning
+`Feature Engineering`
 
-`PyTorch (Learning)` `TensorFlow (Learning)`
+`Data Preprocessing`
 
-*Currently building foundations in neural networks, deep learning architectures, and model training workflows.*
+`Model Evaluation`
 
----
+`Model Serialization`
 
-### Data Science
+Metrics:
 
-`Pandas` `NumPy` `Jupyter Notebook`  
-`Exploratory Data Analysis`  
-`Data Cleaning` `Data Visualization`
+`MAE` `RMSE` `R² Score`
 
 ---
 
-### NLP / LLM Applications
+## Data Science
 
-`Anthropic Claude API`  
-`Prompt Engineering`  
-`Rule-based Intent Detection`  
+`Pandas`
+
+`NumPy`
+
+`Jupyter Notebook`
+
+`Exploratory Data Analysis`
+
+`Data Cleaning`
+
+`Data Visualization`
+
+`Matplotlib`
+
+`Seaborn`
+
+---
+
+## ML Engineering & Deployment
+
+`FastAPI`
+
+`REST APIs`
+
+`Streamlit`
+
+`Pydantic`
+
+`Uvicorn`
+
+`Model Serving`
+
+`Inference Pipelines`
+
+---
+
+## MLOps
+
+`Docker`
+
+`MLflow`
+
+`Experiment Tracking`
+
+`Configuration Management`
+
+`Logging`
+
+`Exception Handling`
+
+`Pytest`
+
+`GitHub Actions (Learning)`
+
+---
+
+## AI / LLM Applications
+
+`Claude API`
+
+`Prompt Engineering`
+
+`Rule-based Intent Routing`
+
 `LLM Application Development`
 
-*Currently exploring advanced NLP, RAG systems, and AI agents.*
+Currently exploring:
+
+`RAG`
+
+`AI Agents`
+
+`Tool Calling`
 
 ---
 
-### Machine Learning Deployment
-
-`FastAPI`  
-`REST APIs`  
-`Streamlit Applications`  
-`Model Serving`  
-`API Development`
-
----
-
-### MLOps
-
-`Docker`  
-`Pytest`  
-`GitHub Actions (Learning)`  
-`Experiment Tracking (Learning)`  
-`Model Monitoring (Learning)`
-
----
-
-### Backend Development
-
-`FastAPI`  
-`REST API Design`  
-`Java Swing`
-
----
-
-### Databases
+## Databases & Cloud
 
 `MySQL`
 
----
-
-### Cloud
-
-`Google Cloud Platform (Learning)`  
 `AWS Fundamentals (Learning)`
 
+`Google Cloud Platform (Learning)`
+
 ---
 
-### Tools
+## Tools
 
-`Streamlit`  
-`Jupyter Notebook`  
-`Docker`  
+`Git`
+
+`GitHub`
+
 `VS Code`
 
----
+`Jupyter Notebook`
 
-### Version Control
-
-`Git`  
-`GitHub`
+`Docker`
 
 ---
 
@@ -139,23 +180,40 @@ Computer Science student focused on building and deploying practical Machine Lea
 
 | Project | Description |
 |---|---|
-| [**TechGuide AI Assistant**](https://github.com/ShahvezAli784/techguide-ai-assistant) | A Python AI troubleshooting assistant with a custom rule-based intent engine that decides when to call Claude instead of blindly sending every request to an LLM. |
-| [**Calories Burnt Prediction ML System**](https://github.com/ShahvezAli784/calories-burnt-prediction-ml-system) | End-to-end ML system predicting calories burned during exercise using XGBoost regression. Includes modular ML pipeline, FastAPI REST API, and Streamlit web application deployment. |
-| [**Oscar AI Predictor**](https://github.com/ShahvezAli784/oscar-ai-predictor) | Streamlit application predicting Academy Award outcomes using movie metadata and machine learning models. |
-| [**Tour & Travel Management Software**](https://github.com/ShahvezAli784/TourAndTravelManagementSoftware) | Java Swing desktop application for managing travel bookings with MySQL database integration. |
+| [**Oscar AI Predictor**](https://github.com/ShahvezAli784/oscar-ai-predictor) | End-to-end Oscar prediction ML system using IMDb metadata and historical Academy Award records. Includes data ingestion, feature engineering, Random Forest classification, MLflow experiment tracking, FastAPI inference API, Docker deployment, and optional Streamlit UI. |
+| [**Calories Burnt Prediction ML System**](https://github.com/ShahvezAli784/calories-burnt-prediction-ml-system) | Production-style regression system predicting calories burned during exercise using XGBoost. Includes modular ML pipeline, preprocessing workflow, model evaluation, FastAPI REST API, and Streamlit application. |
+| [**TechGuide AI Assistant**](https://github.com/ShahvezAli784/techguide-ai-assistant) | Python AI troubleshooting assistant with custom intent routing that decides when to use an LLM instead of blindly forwarding every request. |
+| [**Tour & Travel Management Software**](https://github.com/ShahvezAli784/TourAndTravelManagementSoftware) | Java Swing desktop application with MySQL database integration for travel booking management. |
 
 ---
 
-# 📌 Future Projects & Goals
+# 🧠 Machine Learning Concepts Demonstrated
+
+- Supervised Learning
+- Regression Models
+- Classification Models
+- Ensemble Learning
+- Feature Engineering
+- Data Transformation
+- Model Evaluation
+- Model Persistence
+- ML Pipelines
+- Inference Pipelines
+- Experiment Tracking
+- API-based Model Deployment
+
+---
+
+# 📌 Future Goals
 
 Building towards:
 
-- Deep Learning projects with PyTorch/TensorFlow
-- Retrieval-Augmented Generation (RAG) applications
-- AI agents with tool calling and memory
-- ML systems deployed on cloud platforms
-- End-to-end MLOps pipelines
-- Real-time ML applications
+- Deep Learning systems with PyTorch/TensorFlow
+- Retrieval-Augmented Generation applications
+- AI agents with tool usage
+- Cloud deployed ML services
+- Complete MLOps workflows
+- Real-time AI applications
 
 ---
 
@@ -173,10 +231,6 @@ Building towards:
 
 <a href="https://www.kaggle.com/shahvezmemonmahmood">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="mailto:shahvezmemon3@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
