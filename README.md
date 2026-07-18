@@ -11,18 +11,8 @@ Currently expanding expertise in Deep Learning, LLM applications, and MLOps to b
 
 ## 🔭 Currently Working On
 
-- **Customer Churn Prediction ML System**
-  - FastAPI prediction service
-  - Dockerized deployment
-  - Testing and production-style ML architecture
-
-- **TechGuide AI Agent**
-  - Python-based AI assistant
-  - Rule-based intent routing
-  - Intelligent LLM usage decisions
-  - Exploring agentic AI workflows
-
----
+**AI-Powered Movie Character Similarity Finder**  
+Developing a deep learning-based computer vision system that captures a user's image through a webcam and matches their facial features with movie characters using face embeddings, similarity search, and neural networks.
 
 ## 🌱 Currently Learning
 
